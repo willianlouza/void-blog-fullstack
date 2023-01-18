@@ -1,0 +1,12 @@
+{
+  "name": "blog-react",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start:api": "cd ./backend && npm run dev",
+    "start:front": "cd ./frontend && npm run dev",
+    "config:install": "cd ./frontend && npm install && cd ../backend && npm install",
+    "config:env": "node config.js",
+    "migrate": "cd./backend && npx prisma migrate dev --name init"
+  }
+}
