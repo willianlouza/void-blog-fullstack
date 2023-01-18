@@ -5,7 +5,7 @@ Um blog fullstack feito em Next JS e Express.
 
 Precisa do [Node.js](https://nodejs.org/) para rodar.
 
-Clone esse repositório
+Clone este repositório
 
 ```sh
 git clone https://github.com/willianlouza/void-blog-fullstack.git
