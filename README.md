@@ -38,7 +38,7 @@ Variáveis de ambiente Frontend
 API_URL="http://localhost:8080/api"
 ```
 
-Para fazer a migração de dados pro banco de dados
+Para fazer a migração de dados para o banco de dados
 
 ```sh
 npm run migrate
